@@ -1,0 +1,7 @@
+{
+  "name": "demo-ionic-dashboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
